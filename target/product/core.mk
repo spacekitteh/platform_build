@@ -57,6 +57,7 @@ PRODUCT_PACKAGES += \
     TeleService \
     VpnDialogs \
     MmsService \
-    chromium
+    chromium \
+    F-Droid
 
 $(call inherit-product, $(SRC_TARGET_DIR)/product/core_base.mk)
