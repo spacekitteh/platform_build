@@ -187,7 +187,8 @@ BOUNDS_BLACKLIST := libicuuc libicuuc_static libicui18n libicui18n_static \
                     libunwind \
                     keystore \
                     libsvoxpico \
-                    libstagefright_amrnbenc
+                    libstagefright_amrnbenc \
+                    libstagefright_amrwbenc
 
 ifndef LOCAL_IS_HOST_MODULE
   ifeq ($(filter $(LOCAL_MODULE),$(BOUNDS_BLACKLIST)),)
