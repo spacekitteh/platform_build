@@ -24,7 +24,7 @@ PRODUCT_PACKAGES += \
     BasicDreams \
     BlockedNumberProvider \
     BookmarkProvider \
-    Calendar \
+    Etar-Calendar \
     CalendarProvider \
     offline-calendar \
     CaptivePortalLogin \
