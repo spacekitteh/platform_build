@@ -26,6 +26,7 @@ PRODUCT_PACKAGES += \
     BookmarkProvider \
     Calendar \
     CalendarProvider \
+    offline-calendar \
     CaptivePortalLogin \
     CertInstaller \
     Contacts \
