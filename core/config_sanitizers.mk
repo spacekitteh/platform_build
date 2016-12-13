@@ -178,6 +178,7 @@ BOUNDS_BLACKLIST := libicuuc libicuuc_static libicui18n libicui18n_static \
                     libopenjdk libopenjdkd \
                     nfc_nci.bcm2079x.default \
                     libbt-bta \
+                    libbt-stack \
                     libart \
                     patchoat \
                     libOmxVdec \
