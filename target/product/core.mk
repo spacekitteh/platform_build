@@ -60,6 +60,7 @@ PRODUCT_PACKAGES += \
     MmsService \
     chromium \
     Updater \
-    F-Droid
+    F-Droid \
+    FDroidPrivilegedExtension
 
 $(call inherit-product, $(SRC_TARGET_DIR)/product/core_base.mk)
