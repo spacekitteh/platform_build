@@ -60,6 +60,7 @@ PRODUCT_PACKAGES += \
     MmsService \
     chromium \
     F-Droid \
-    PdfViewer
+    PdfViewer \
+    privacy-friendly-netmonitor
 
 $(call inherit-product, $(SRC_TARGET_DIR)/product/core_base.mk)
